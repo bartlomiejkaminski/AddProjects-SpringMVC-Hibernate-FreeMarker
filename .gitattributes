@@ -1,2 +1,5 @@
 $ cat .gitattributes
 *.rb linguist-language=Java
+*.gitattributes text
+.gitignore text
+*.md text
